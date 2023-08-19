@@ -1,0 +1,206 @@
+#outer
+{
+height:1200px;
+width:1000px;
+//border:1px solid white;
+margin:0px auto;
+}
+body
+{
+	background-color:green;
+}
+#nav
+{
+	height:50px;
+	width:1000px;
+	background-color:white;
+	border:1px solid;
+	border-radius:20px 20px 0px 0px;
+}
+#nav ul
+{
+list-style-type:none;	
+margin-top:12px;
+}
+#nav ul li
+{
+	display:inline;
+	border:1px solid black;
+	padding:17px;
+	margin-right:-5px;
+}
+#nav ul li a
+{
+	color:black;
+	text-decoration:none;
+	font-style:calibri;
+	margin-top:-30px;
+	margin-left:25px;
+	margin-right:25px;
+	font-size:20px;
+	opacity:0.4;
+}
+#nav ul li a:hover
+{
+	color:lightgreen;
+}
+#slider
+{
+	height:250px;
+	width:1000px;
+	background-color:white;
+	margin-top:5px;
+	background-image:url('../images/sofa.png');
+	background-repeat:no-repeat;
+	background-size:cover;
+
+}
+#papa
+{
+	height:600px;
+	width:1000px;
+	//border:1px solid;
+    margin-top:5px;
+}
+#left
+{
+	height:600px;
+	width:700px;
+	background-color:white;
+	float:left;
+	border-radius:0px 0px 0px 20px;
+	//border:1px solid;
+	
+}
+#left h1
+{
+	margin-left:400px;
+}
+#s1
+{
+	height:400px;
+	width:346px;
+	//border:1px solid;
+	background-color:gray;
+	float:left;
+	margin-top:70px;
+	margin-top:-20px;
+	background-image:url('../images/login.png');
+	background-size:cover;
+}
+#s2
+{
+	height:400px;
+	width:346px;
+	//border:1px solid;
+	background-color:gray;
+    float:right;
+	margin-top:-20px;
+}
+#s2 table
+{
+	height:200px;
+	width:250px;
+	//border:1px solid;
+	padding:30px;
+	margin-top:50px;
+	margin-left:20px;
+}
+#right
+{
+	height:600px;
+	width:298px;
+	//border:1px solid;
+	background-color:white;
+	float:right;
+	border-radius:0px 0px 20px 0px; 
+	opacity:0.8;
+}
+#right h1
+{
+	margin-left:40px;
+	margin-top:40px;
+}
+#right ul li
+{
+	list-style-type:none;
+	font-size:17px;
+}
+#footer
+{
+	height:270px;
+	width:1000px;
+	//border:1px solid white;
+	background-color:white;
+	margin-top:20px;
+	border-radius:25px 25px 25px 25px;
+}
+.one
+{
+	height:240;
+	width:310;
+	//border:1px solid;
+	margin-top:-2px;
+	margin-left:15px;
+	float:left;
+}
+#box11
+{
+	height:230px;
+	width:279;
+	//border:1px solid;
+	margin-left:30px;
+	
+}
+.box111
+{
+	height:73px;
+	width:73px;
+	border:5px solid lightgray;
+	margin-top:-10px;
+	margin-left:8px;
+	margin-right:1px;
+	float:left;
+}
+#box12
+{
+	height:239px;
+	width:279;
+	//border:1px solid;
+	margin-left:30px;
+	
+}
+#box13
+{
+	height:239px;
+	width:279;
+	//border:1px solid;
+	margin-left:30px;
+}
+.v
+{
+	background-image:url('../images/headphone.png');
+	background-size:cover;
+}.w
+{
+	background-image:url('../images/idea.png');
+	background-size:cover;
+}.x
+{
+	background-image:url('../images/keyboard.png');
+	background-size:cover;
+}.y
+{
+	background-image:url('../images/clock.png');
+	background-size:cover;
+}
+.z
+{
+	background-image:url('../images/network.png');
+	background-size:cover;
+}
+.zz
+{
+	background-image:url('../images/nature.jpg');
+	background-size:cover;			
+}
